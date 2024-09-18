@@ -1,2 +1,2 @@
 # fraud_detection
-Fraud_Dectection_Model for credit cards 
+Fraud Dectection Model for credit cards 
